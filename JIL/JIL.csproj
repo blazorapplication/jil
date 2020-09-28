@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UserSecretsId>aspnet-JIL-ED1902FC-29DD-4901-A75D-FC3F5D1EDF9A</UserSecretsId>
+    <StartupObject>JIL.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
